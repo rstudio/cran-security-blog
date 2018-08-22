@@ -1,0 +1,3 @@
+baseURL = "https://blogs.rstudio.com/cran/"
+languageCode = "en-us"
+title = "RStudio CRAN Blog"
