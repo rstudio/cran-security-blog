@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on RStudio CRAN Security Incidents</title>
+    <link>https://blogs.rstudio.com/cran-security/posts/</link>
+    <description>Recent content in Posts on RStudio CRAN Security Incidents</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© RStudio, Inc.</copyright>
+    <lastBuildDate>Wed, 05 Sep 2018 16:31:15 -0500</lastBuildDate>
+    
+	<atom:link href="https://blogs.rstudio.com/cran-security/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example Post</title>
+      <link>https://blogs.rstudio.com/cran-security/posts/2018-09-intro/</link>
+      <pubDate>Wed, 05 Sep 2018 16:31:15 -0500</pubDate>
+      
+      <guid>https://blogs.rstudio.com/cran-security/posts/2018-09-intro/</guid>
+      <description>This is an example of a post that would appear in the event of a malicious file being posted to CRAN. Posts would include a detail of the malicious file, when it was found, why it&amp;rsquo;s believed to be malicious, and proposed remediation steps.
+RStudio administers two mirrors: cran.rstudio.com and cloud.r-project.org, so steps could be taken to remove malicious files from those two mirrors more aggressively. Other mirrors would need to proactively synchronize with the authoritative CRAN mirror once it had removed the harmful files, or would automatically do so on their next scheduled sync.</description>
+    </item>
+    
+  </channel>
+</rss>

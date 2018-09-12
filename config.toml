@@ -1,4 +1,4 @@
-baseURL = "https://blogs.rstudio.com/cran/"
+baseURL = "https://blogs.rstudio.com/cran-security/"
 languageCode = "en-us"
 title = "RStudio CRAN Security Incidents"
 theme = "pickles"
