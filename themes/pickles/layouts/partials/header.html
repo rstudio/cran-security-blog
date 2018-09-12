@@ -12,7 +12,8 @@
     {{ end }}
     {{ with .Site.Params.subtitle }}
     <p class="p-subtitle">
-      {{ . }}
+      {{ . | safeHTML}}
+      You can subscribe to our <a href="{{ $.Site.BaseURL }}index.xml">RSS Feed</a> to stay updated.
     </p>
     {{ end }}
   </header>

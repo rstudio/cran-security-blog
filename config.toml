@@ -1,4 +1,10 @@
 baseURL = "https://blogs.rstudio.com/cran/"
 languageCode = "en-us"
-title = "RStudio CRAN Blog"
+title = "RStudio CRAN Security Incidents"
 theme = "pickles"
+copyright = "© RStudio, Inc."
+
+[params]
+subtitle = "This blog is intended to be a resource for individuals responsible for maintaining the security of an organization’s R repository and is maintained by the <a href=\"https://rstudio.com/products/package-manager/\">RStudio Package Manager</a> team. New entries will be posted any time there is a security incident associated with a file hosted on a CRAN mirror and will include proposed instructions for remediation."
+
+custom_css = ["css/cranblog.css"]
